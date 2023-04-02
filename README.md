@@ -1,4 +1,4 @@
-Arificial Intelligence: Pacman Project
+# Arificial Intelligence: Pacman Project
 
 Project based on: http://ai.berkeley.edu/project_overview.html
 
